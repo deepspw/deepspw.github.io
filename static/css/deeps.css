@@ -1,0 +1,21 @@
+.deeps-background {
+    background-image: url("/images/valley.png");
+    background-repeat: no-repeat;
+    background-position: left top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+.deeps-logo {
+  background-image:url("/images/cloud1.svg");
+  background-position: center;
+  background-attachment: fixed;
+}
+.floating {
+  position:absolute;
+  top:0px;
+  left:0px;
+}
+
+
+  
